@@ -5,4 +5,4 @@ sleep 3
 cd ab
 sleep 3
 chmod +x ./ab
-./ab 
+./ab --url google.com
